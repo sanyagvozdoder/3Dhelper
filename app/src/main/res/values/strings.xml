@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">3Dhelper</string>
+    <string name="greeting_text">Welcome to 3Dhelper</string>
+    <string name="question_text1">Вопрос 1\n
+    Геометрический смысл производной
+    </string>
+    <string name="answer1_text">
+        1)Δx -> 0\n
+        2)Δf(x0) -> 0\n
+        3)φ -> α\n
+        4)N -> M (2-ая точка пересечения секущей стремится к 1-ой)\n
+        f′(x0) = tg(α)\n
+    </string>
+    <string name="question_text2">Вопрос 2\n
+    Определение предела последовательности, предела функции, и их свойства
+    </string>
+    <string name="question_text3">Вопрос 3/4 \n
+    Сравнение бесконечно малых/больших с примерами
+    </string>
+    <string name="answer_text3">Для бесконечно больших тоже самое, но
+    в пунктах 2,3 наоборот(если a(x)/b(x) = 0, то b(x) = O(a(x)))\n
+    x!>a^x>x^n>log(x)
+    </string>
+    <string name="question_text5">Вопрос 5\n
+    Типы неопределенностей, виды их раскрытия
+    </string>
+    <string name="link"><a href = "https://dpva.ru/Guide/GuideMathematics/limits/LiminsUnclerarity/">Ссылка</a></string>
+</resources>
